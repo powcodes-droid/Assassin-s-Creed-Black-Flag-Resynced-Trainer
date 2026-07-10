@@ -9,6 +9,7 @@ A powerful, high-performance memory modifier utility designed for **Assassin's C
 
 Optimized for minimal resource usage, and zero performance degradation.
 
+![Preview](assets/preview.png)
 ---
 
 ## 🚀 Key Features
